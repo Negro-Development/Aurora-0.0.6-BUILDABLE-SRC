@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "mixinPriority": 2147483647,
+  "priority": 2147483647,
+  "package": "me.halqq.aurora.client.injection.mixins",
+  "refmap": "mixins.aurora.refmap.json",
+  "mixins": [
+    "MixinGuiNewChat",
+    "MixinMinecraft",
+    "MixinNetHandlerPlayClient",
+    "MixinRendererLivingEntity",
+    "MixinRenderEnderCrystal",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEntityItem"
+  ]
+}
