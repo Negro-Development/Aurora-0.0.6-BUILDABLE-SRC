@@ -19,7 +19,7 @@ Aurora Incident
 - i posted the buildable src
 - we all good
 
-yt link: [](https://www.youtube.com/watch?v=PL9pfa07GC4)  <br>
+yt link: [here](https://www.youtube.com/watch?v=PL9pfa07GC4)  <br>
 > special thanks to: 
 - potato sus: helped me with the obfuscator&reampper interface
 - JByteCustom (insider edition): looking at the obf pattern
