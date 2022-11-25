@@ -5,6 +5,7 @@
 - potato sus - friend - helped me with the deobf and its gui
 - java - the devil - the devil
 - vacation - the chill - the canios
+- zzurio - the god - the allah
 
 ## Building
 in order to build the jar, just go to the directory where u extracted the files and do `gradlew build` on the terminal <br>
